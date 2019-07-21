@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cards Commponent renders Cards as expected 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    TEST TITLE
+  </h3>
+  <p>
+    Test Content
+  </p>
+</div>
+`;
